@@ -1,0 +1,15 @@
+.form__fieldset {
+    border-radius: 10px;
+    background-color: #bfc4dc;
+    margin-bottom: 40px;
+}
+
+.form__legend {
+    background-color: #808cba;
+    width: 150px;
+    height: 25px;
+    text-align: center;
+    vertical-align: middle;
+    border-radius: 5px;
+    border: 1px solid black;
+}
