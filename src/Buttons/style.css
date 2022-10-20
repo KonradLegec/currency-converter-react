@@ -12,3 +12,11 @@
     background-color: #2b3c63;
     color: white;
 }
+
+.form__buttonContainer {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+    
