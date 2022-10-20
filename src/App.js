@@ -1,4 +1,4 @@
-import "./style.css";
+import "./index.css";
 import Form from "./Form";
 import Container from "./Container";
 import Header from "./Header";
@@ -7,6 +7,8 @@ import Fieldset from "./Fieldset";
 import Buttons from "./Buttons";
 import InputSection from "./InputSection";
 import OutputSection from "./OutputSection";
+import Footer from "./Footer";
+
 
 function App() {
   return (
@@ -27,6 +29,7 @@ function App() {
           }
         />
       </Form>
+      <Footer />
     </Container>
   );
 }
